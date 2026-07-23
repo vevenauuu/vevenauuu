@@ -260,14 +260,17 @@ h2.section-title{
 
 .project-card:hover{
 	transform: scale(1.05);
-	box-shadow: 0 12px 30px rgba(0, 0, 0, .15);
+	transition: 0.3s;
 	background-color: var(--hover);
+	border-color: var(--primary);
+	box-shadow: 0 12px 25px rgba(0, 0, 0, .12);
+
 }
 
 .project-card img{
 	width: 100%;
 	height: 180px;
-	object-fit: cover;
+	object-fit: fill;
 	border-radius: var(--radius);
 	margin-bottom: 18px;
 }
