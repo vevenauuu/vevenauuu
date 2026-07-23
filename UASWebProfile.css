@@ -241,7 +241,7 @@ h2.section-title{
 
 .portfolio-grid{
 	display: grid;
-	grid-template-columns: 33%;
+	grid-template-columns: 33% 33% 33%;
 	padding: 10px 20px 10px 0;
 	gap: 20px;
 	margin-top: 25px;
@@ -286,7 +286,7 @@ h2.section-title{
 
 .course-grid{
 	display: grid;
-	grid-template-columns: 33% 33%;
+	grid-template-columns: 33% 33% 33%;
 	padding-top: 10px;
 	gap: 20px
 }
@@ -435,15 +435,19 @@ h2.section-title{
 	}
 
 	.portfolio-grid{
-		grid-template-columns: 33% 33% 33%;
+		grid-template-columns: 33%;
 	}
 
 	.course-grid{
-		grid-template-columns: 33% 33% 33%;
+		grid-template-columns: 33% 33%;
 	}
 
 	.contact-container{
-		grid-template-columns: 33% 33% 33%;
+		grid-template-columns: 33%;
+	}
+
+	.contact-info{
+		margin-bottom: 20px;
 	}
 }
 
