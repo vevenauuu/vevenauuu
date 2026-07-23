@@ -1,5 +1,4 @@
 ## Hi there 👋
-Simple Web Profile - Web Design UAS
 
 <!--
 **vevenauuu/vevenauuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
