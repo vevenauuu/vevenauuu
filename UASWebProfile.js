@@ -86,37 +86,37 @@ function coursePage(){
     <h2 class="section-title">What Do I Learn?</h2>
     <div class="course-grid">
         <div class="course-card">
-            <img src="images/icon.png" class="course-icon">
+            <img src="images/icon1.png" class="course-icon">
             <h3>Buddhist Education</h3>
             <p>Learning Buddhist Value, Events according to Buddhist View, and Biographies of Buddhist figures.</p>
         </div>
         <div class="course-card">
-            <img src="images/icon.png" class="course-icon">
+            <img src="images/icon2.png" class="course-icon">
             <h3>English</h3>
             <p>Improving English communication skills in academic and professional fields.</p>
         </div>
         <div class="course-card">
-            <img src="images/icon.png" class="course-icon">
+            <img src="images/icon3.png" class="course-icon">
             <h3>Data Structure</h3>
             <p>Implementing efficient data structures to solve programming problems.</p>
         </div>
         <div class="course-card">
-            <img src="images/icon.png" class="course-icon">
+            <img src="images/icon4.png" class="course-icon">
             <h3>System Analysis & Design</h3>
             <p>Learning UML Diagrams and Information System Development processes.</p>
         </div>
         <div class="course-card">
-            <img src="images/icon.png" class="course-icon">
+            <img src="images/icon5.png" class="course-icon">
             <h3>Statistics & Probability</h3>
             <p>Analyzing data using probability distribution and using correct statistical methods.</p>
         </div>
         <div class="course-card">
-            <img src="images/icon.png" class="course-icon">
+            <img src="images/icon6.png" class="course-icon">
             <h3>Visual Programming</h3>
             <p>Building desktop applications using Visual Basic integrated with SQL Server.</p>
         </div>
         <div class="course-card">
-            <img src="images/icon.png" class="course-icon">
+            <img src="images/icon7.png" class="course-icon">
             <h3>Web Design</h3>
             <p>Creating simple responsive website using HTML, CSS, and JavaScript.</p>
         </div>
